@@ -3,6 +3,11 @@
 
 This repository contains the complete code for a chat application built with React Native and Firebase.
 
+
+https://github.com/dmrck/ChatWithGPT/assets/34156110/b6d60503-abfc-448a-a87f-6cbad6a45109
+
+
+
 ## Table of Contents
 
 - [Installation](#installation)
