@@ -1,0 +1,110 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# React Native
+# Generated files
+*.hmap
+*.ipa
+*.jar
+*.keystore
+*.ph*
+*.p12
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj
+*.pbxproj
+*.xcworkspace
+*.xcuserdata
+*.app
+
+# Build directories
+android/app/build/
+android/build/
+ios/Pods/
+ios/build/
+ios/*.xcodeproj/xcuserdata/
+
+# Android
+*.gradle
+*.log
+android/app/src/main/assets/index.android.bundle
+android/app/src/main/assets/index.android.bundle.map
+android/app/src/main/res/raw/index.android.bundle
+android/app/src/main/res/raw/index.android.bundle.map
+/android/app/debug.keystore
+
+# iOS
+ios/Pods/
+ios/build/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Firebase
+android/app/google-services.json
+ios/GoogleService-Info.plist
+
+# Miscellaneous
+*.swp
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+*.idea
+*.vscode
+
+# Tests
+coverage/
+*.lcov
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Ignore IntelliJ project files
+.idea/
+
+# Ignore VSCode directory
+.vscode/
+
+# Ignore Yarn lock files
+yarn.lock
+
+# Ignore NPM lock files
+package-lock.json
+
+# Ignore Expo files
+.expo/
+.expo-shared/
+
+# Ignore Metro cache
+*.tmp
+.expo/
+
+# Ignore Buck build files
+buck-out/
+
+# Ignore fastlane build files
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Ignore CocoaPods files
+ios/Pods/
+ios/Podfile.lock
+
+vendor/
