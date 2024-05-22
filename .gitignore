@@ -69,11 +69,6 @@ ios/GoogleService-Info.plist
 coverage/
 *.lcov
 
-# Environment variables
-.env
-.env.local
-.env.*.local
-
 # Ignore IntelliJ project files
 .idea/
 
